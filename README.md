@@ -1,47 +1,108 @@
 # S1_R7-AT2_LOPAL
-# Olá, eu sou a Anna Beatriz! ✨
-### 👩‍💻 Desenvolvedora De Sistemas 
+<h1 align="center">✨ JavaScript Exercises ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR0bmZ3eGZ4ZzR0bmZ3eGZ4ZzR0bmZ3eGZ4ZzR0bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Tech Girl Illustration">
+  <b>Projeto de lógica de programação</b><br>
+  <sub>visual moderno • interativo • colorido</sub>
 </p>
 
----
-
----
-
-## 🛠 Minhas Techs Favoritas
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</div>
-
----
-
-## 📊 Minhas Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USER]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USER]&layout=compact&langs_count=7&theme=dracula" />
+  <a href="#sobre"><img src="https://img.shields.io/badge/sobre-ff69b4?style=for-the-badge"></a>
+  <a href="#exercicios"><img src="https://img.shields.io/badge/exercícios-8a2be2?style=for-the-badge"></a>
+  <a href="#progresso"><img src="https://img.shields.io/badge/progresso-00cfff?style=for-the-badge"></a>
+  <a href="#tecnologias"><img src="https://img.shields.io/badge/tech-00ff9c?style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🎧 Codando ao som de:
-[![Spotify](https://novos-playing-badge.vercel.app/api/badge?username=[SEU-USER-SPOTIFY])](https://open.spotify.com/user/[SEU-USER-SPOTIFY])
+## <a name="sobre"></a>💡 sobre
+
+Este projeto contém exercícios de **lógica de programação em JavaScript**, focados em:
+
+- validação de dados  
+- repetição  
+- decisões  
+- interação com usuário  
 
 ---
 
-## 🌐 Vamos nos conectar?
-<p align="left">
-  <a href="https://linkedin.com/in/[SEU-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/[SEU-INSTA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+## <a name="progresso"></a>📊 progresso
+
+| exercício | progresso | acesso |
+|----------|----------|--------|
+| ex1 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/proj01/tree/main/ex01) |
+| ex2 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/proj01/tree/main/ex02) |
+| ex3 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/proj01/tree/main/ex03) |
+| ex4 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/proj01/tree/main/ex04) |
+| ex5 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/proj01/tree/main/ex05) |
 
 ---
+
+## <a name="exercicios"></a>📋 exercícios
+
+<details>
+<summary>📌 clique para ver os exercícios</summary>
+
+<br>
+
+### 01 — Validação De Senha
+Insira a senha correta 
+
+### 02 — Soma Com Confirmação 
+Calcule a soma dos números inteiros até confirmar a soma dos números desejados
+
+### 03 — Jogo De Adivinhação 
+Advinhe o número secreto  
+
+### 04 — Validação De Cadastro  
+validação do cadastro do produto 
+
+### 05 — Desafio Final - Sistema de Cafeteria:  
+Sistema de cafeteria: menu e valor total da compra  
+
+</details>
+
+---
+
+## 🎨 gráfico visual
+
+
+ex1 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex2 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex3 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex4 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex5 ▰▰▰▰▰▰▰▰▰▰ 100%
+
+
+---
+
+## <a name="tecnologias"></a>💻 tecnologias
+
 <p align="center">
-  <i>"Código limpo sempre parece que foi escrito por alguém que se importa." — Robert C. Martin</i> <br>
-  💖 Feito com código e muita cafeína.
+  <img src="https://img.shields.io/badge/javascript-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/git-8a2be2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/github-00cfff?style=for-the-badge">
 </p>
+
+---
+
+## 📂 estrutura
+
+
+exercicios-js/
+├── ex1.js
+├── ex2.js
+├── ex3.js
+├── ex4.js
+├── ex5.js
+└── README.md
+
+
+---
+
+## ▶️ executar
+
+1. abrir navegador  
+2. pressionar F12  
+3. colar código  
+4. executar  
